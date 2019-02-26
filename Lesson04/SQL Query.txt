@@ -1,0 +1,5 @@
+select company, count(company) AS "Count of flavors" from flavors_of_cocoa
+where rating > 4
+group by company
+order by "Count of flavors" desc
+limit 10;

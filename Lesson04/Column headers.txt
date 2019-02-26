@@ -1,0 +1,1 @@
+Company string,Bean_Origin string,REF int,Review_Date int,Cocoa_Percent string,Company_Location string,Rating decimal,Bean_Type string,Broad_Bean_Origin string
